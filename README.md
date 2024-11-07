@@ -49,34 +49,32 @@
  <a name="coref"></a>
 
 ## 2. Main Features
-### Item Listings for Rent
-- 🛠️ <strong> Allow users to list items they rarely use, such as tools, electronics, sports equipment, and more. Listings can be organized into various categories to facilitate item discovery.</strong>This was done by implementing CRUD operations to create, retrieve, update, and delete item listing and developing endpoints to handle different categories, enabling efficient filtering and searching.
+### 🛠️ Item Listings for Rent
+- <strong> Allow users to list items they rarely use, such as tools, electronics, sports equipment, and more. Listings can be organized into various categories to facilitate item discovery.</strong>This was done by implementing CRUD operations to create, retrieve, update, and delete item listing and developing endpoints to handle different categories, enabling efficient filtering and searching.
   <br>
   
-### Rental Management and Pricing
-- 📊  <strong> Manage rental durations, set flexible pricing models, and allow users to specify rental periods and conditions. </strong>Define pricing and duration models in the backend by using database tables to store rental rates and durations, and develop endpoints to handle rental availability, pricing rules, and extensions.
+### 📊 Rental Management and Pricing
+- <strong> Manage rental durations, set flexible pricing models, and allow users to specify rental periods and conditions. </strong>Define pricing and duration models in the backend by using database tables to store rental rates and durations, and develop endpoints to handle rental availability, pricing rules, and extensions.
   <br>
 
-### Trust, Safety, and Verification
-- 🛡️  <strong> User verification, rating, and review systems to ensure safe and reliable transactions. Develop mechanisms for security deposits or damage protection. </strong>Integrate identity verification for users, potentially via third-party verification APIs. 
+### 🛡️ Trust, Safety, and Verification
+- <strong> User verification, rating, and review systems to ensure safe and reliable transactions. Develop mechanisms for security deposits or damage protection. </strong>Integrate identity verification for users, potentially via third-party verification APIs. 
   <br>
   
-### Logistics: Delivery and Pickup
-- 🚚 <strong> Provide options for delivery or in-person pickup, with the potential for location-based matchmaking to facilitate exchanges. </strong>Integrate map-based location services to assist with pickup arrangements and delivery logistics.
+### 🚚 Logistics: Delivery and Pickup
+- <strong> Provide options for delivery or in-person pickup, with the potential for location-based matchmaking to facilitate exchanges. </strong>Integrate map-based location services to assist with pickup arrangements and delivery logistics.
   <br>
 
-### Revenue Model and Insurance
-- 💰 <strong> Define how the platform generates revenue, such as through service fees. Integrate insurance or damage protection. </strong>Calculate and implement platform fees or commissions for each transaction. 
+### 💰 Revenue Model and Insurance
+- <strong> Define how the platform generates revenue, such as through service fees. Integrate insurance or damage protection. </strong>Calculate and implement platform fees or commissions for each transaction. 
   <br>
 
-### User Experience and Recommendations
-- ⭐ <strong> Enhance the user experience by offering personalized recommendations and a user-friendly interface.</strong> Leverage data on user interactions and item popularity to provide recommendations. 
+### ⭐ User Experience and Recommendations
+- <strong> Enhance the user experience by offering personalized recommendations and a user-friendly interface.</strong> Leverage data on user interactions and item popularity to provide recommendations. 
   <br>
 
 [Go to Top](#table-of-contents)
 
-## 3. Additional Features
- add content here.............
 
  <br>
  <br>
