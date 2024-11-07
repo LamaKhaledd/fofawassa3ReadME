@@ -41,4 +41,43 @@
   </ol>
 </details>
  <br>
+ <br>
+ <br>
+
+
+ <a name="coref"></a>
+
+## 2. Main Features
+### Item Listings for Rent
+- 🛠️ <strong> Allow users to list items they rarely use, such as tools, electronics, sports equipment, and more. Listings can be organized into various categories to facilitate item discovery.</strong>
+By implementing CRUD operations to create, retrieve, update, and delete item listing and developing endpoints to handle different categories, enabling efficient filtering and searching.
+  
+### Rental Management and Pricing
+- 📊 **Feature Explanation**: 
+- 💻 **Implementation**: 
+
+### Trust, Safety, and Verification
+- 🔍 **Feature Explanation**: 
+- 🛡️ **Implementation**:
+  
+### Logistics: Delivery and Pickup
+- 🚚 **Feature Explanation**:
+- 📦 **Implementation**:
+
+### Revenue Model and Insurance
+- 💰 **Feature Explanation**: 
+- 🛡️ **Implementation**: 
+
+### User Experience and Recommendations
+- ⭐ **Feature Explanation**: 
+- 🧠 **Implementation**: 
+
+[Go to Top](#table-of-contents)
+
+## 3. Additional Features
+ add content here.............
+
+ <br>
+ <br>
+ <br>
 
