@@ -72,10 +72,6 @@
 ### ⭐ User Experience and Recommendations
 - <strong> Enhance the user experience by offering personalized recommendations and a user-friendly interface.</strong> Leverage data on user interactions and item popularity to provide recommendations. 
   <br>
-
-[Go to Top](#table-of-contents)
-
-
  <br>
  <br>
  <br>
