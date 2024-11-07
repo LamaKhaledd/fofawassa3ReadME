@@ -181,7 +181,6 @@ Get a firsthand look at our project in action! Watch the demo to explore its fea
   <p align="center"><a href="https://github.com/shahdyaseen/Advanced-Software/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shahdyaseen/Advanced-Software" />
 </a> </p>
-<br>
  <br>
  <p align="right">(<a href="#readme-top">⬆️</a>)</p>
  <br>
