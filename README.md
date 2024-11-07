@@ -49,12 +49,12 @@
 
 ## 2. Main Features
 ### Item Listings for Rent
-- 🛠️ <strong> Allow users to list items they rarely use, such as tools, electronics, sports equipment, and more. Listings can be organized into various categories to facilitate item discovery.</strong>
-By implementing CRUD operations to create, retrieve, update, and delete item listing and developing endpoints to handle different categories, enabling efficient filtering and searching.
+- 🛠️ <strong> Allow users to list items they rarely use, such as tools, electronics, sports equipment, and more. Listings can be organized into various categories to facilitate item discovery.</strong>This was done by implementing CRUD operations to create, retrieve, update, and delete item listing and developing endpoints to handle different categories, enabling efficient filtering and searching.
+  <br>
   
 ### Rental Management and Pricing
-- 📊 **Feature Explanation**: 
-- 💻 **Implementation**: 
+- 📊  <strong> Manage rental durations, set flexible pricing models, and allow users to specify rental periods and conditions. </strong>Define pricing and duration models in the backend by using database tables to store rental rates and durations, and develop endpoints to handle rental availability, pricing rules, and extensions.
+  <br>
 
 ### Trust, Safety, and Verification
 - 🔍 **Feature Explanation**: 
