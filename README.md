@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <img src="Malika.png" alt="Description of the image">
+  <img src="lama.png" alt="Description of the image">
 </div>
 <div align="center">
   <br>
