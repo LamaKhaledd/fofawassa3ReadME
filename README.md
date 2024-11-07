@@ -112,7 +112,6 @@
 [GoogleCloudURL]: https://cloud.google.com/?hl=en
 [Rabbit]: https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
 [RabbitURL]: https://www.rabbitmq.com/
-[Github]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 [GithubURL]: https://github.com/
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [PostmanURL]: https://www.postman.com/
@@ -120,3 +119,6 @@
 [Bootstrap-url]: https://getbootstrap.com
 [wewe]: https://github.com/Mohammad-Aker/GreenThumb
 [JQuery-url]: https://jquery.com 
+
+
+[Github]: https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png
