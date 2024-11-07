@@ -76,3 +76,15 @@
  <br>
  <br>
 
+
+# 👥 Roles:
+- 👤 **Renter**: Users who rent out items.
+- 👥 **Borrower**: Users who borrow items.
+- 🔧 **Admin**: Users who manage the platform.
+- 🏬 **Store Owner**: Users who own stores and rent items.
+- 🏷️ **Supplier**: Users who supply items for rent.
+- 💼 **Beneficiary**: Users who benefit from rented items.
+  <br>
+ <br>
+ <br>
+
