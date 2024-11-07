@@ -45,13 +45,12 @@
 
 
 <a name="bw"></a>
-## 🏡 Built With
+## 🔨 Built With
 * [![SpringBoot][Spring-boot]][SpringURL] <br>An open-source Java framework for creating stand-alone, production-grade applications.
 * [![MySQL][MySQL]][MySQLURL] <br>A reliable, open-source relational database management system commonly used for storing and managing data in web applications.
 * [![Postman][Postman]][PostmanURL] <br>A collaboration platform for designing, testing, and documenting APIs.
 * [![Github][Github]][GithubURL] <br>A web-based platform for version control and collaboration using Git.
 <br>
-<p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
 
 
