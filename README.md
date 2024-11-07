@@ -7,6 +7,15 @@
 <div align="center">
   <br>
   <h1>Peer-to-Peer Rental Platform for Everyday Items</h1> &nbsp;<br>
+<div align="center">
+  <p align="center">
+    <a href="DEMO LINK">👾 View Demo</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Mohammad-Aker/GreenThumb/issues/new">🐞 Report Bug </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+</div>
+     
 </div>
 <div align="center">
   <img src="lama3ametrazan.PNG" alt="Description of the image">
