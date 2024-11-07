@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
      <br>
-<h1>✨ WELCOME TO لما عمتي✨</h1>
    <br>
   <img src="nmnm.PNG" alt="Description of the image">
 </div>
@@ -89,14 +88,6 @@
  <br>
 
 
-<a name="bw"></a>
-## 🏡 Built With
-* [![SpringBoot][Spring-boot]][SpringURL] <br>An open-source Java framework for creating stand-alone, production-grade applications.
-* [![Postman][Postman]][PostmanURL] <br>A collaboration platform for designing, testing, and documenting APIs.
-* [![Github][Github]][GithubURL] <br>A web-based platform for version control and collaboration using Git.
-<br>
-<p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
-<br>
 
 
 
@@ -106,17 +97,9 @@
 
 [Spring-boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
 [SpringURL]: https://spring.io/projects/spring-boot
-[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[DockerURL]: https://www.docker.com/
-[GoogleCloud]: https://img.shields.io/badge/Google%20Cloud%20SQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[GoogleCloudURL]: https://cloud.google.com/?hl=en
-[Rabbit]: https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
-[RabbitURL]: https://www.rabbitmq.com/
 [GithubURL]: https://github.com/
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [PostmanURL]: https://www.postman.com/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
 [wewe]: https://github.com/Mohammad-Aker/GreenThumb
 [JQuery-url]: https://jquery.com 
 
