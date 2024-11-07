@@ -17,6 +17,7 @@
 
 
 
+
 <a name="intro"></a>
 ## 🌟 About the Project
 <strong>RentItOut</strong> is a peer-to-peer rental platform designed to make renting everyday items easy, reliable, and efficient. It connects people who have items to rent with those who need them, facilitating a convenient and cost-effective way to access products without purchasing them. The goal is to create a circular economy that encourages sharing and reduces the need for people to purchase items they only need occasionally.
