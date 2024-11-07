@@ -142,4 +142,4 @@ Make sure you have Maven installed. Run the following command to install the nec
 [JQuery-url]: https://jquery.com 
 
 
-[Github]: https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png
+[Github]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
