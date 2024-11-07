@@ -144,7 +144,7 @@ Make sure you have Maven installed. Run the following command to install the nec
 
 
 <a name="API"></a>
-## 📄 API Documentation
+## 📝 API Documentation
 Our API is fully documented and accessible through Postman, providing a detailed guide for all endpoints. You can view the latest documentation <a href="POSTMAN URLL"><strong>here</strong></a>  once the backend is live. This documentation provides a clear overview of each endpoint, with details on request parameters, response structures, and practical examples to guide integration.
 <br>
 <br>
