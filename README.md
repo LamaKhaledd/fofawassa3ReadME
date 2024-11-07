@@ -44,6 +44,20 @@
  <br>
 
 
+<a name="bw"></a>
+## 🏡 Built With
+* [![SpringBoot][Spring-boot]][SpringURL] <br>An open-source Java framework for creating stand-alone, production-grade applications.
+* [![MySQL][MySQL]][MySQLURL] <br>A reliable, open-source relational database management system commonly used for storing and managing data in web applications.
+* [![Rabbitmq][Rabbit]][RabbitURL] <br>An open-source message broker software implementing the Advanced Message Queuing Protocol (AMQP).
+* [![Docker][Docker]][DockerURL] <br>A platform for building, sharing, and running applications in containers.
+* [![Postman][Postman]][PostmanURL] <br>A collaboration platform for designing, testing, and documenting APIs.
+* [![Github][Github]][GithubURL] <br>A web-based platform for version control and collaboration using Git.
+<br>
+<p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
+<br>
+
+
+
 <a name="gs"></a>
 ## 🚀 Getting Started
 ### ⚙️ Running the project
@@ -137,6 +151,8 @@ Make sure you have Maven installed. Run the following command to install the nec
 
 
 
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQLURL]: https://www.mysql.com/
 [Spring-boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
 [SpringURL]: https://spring.io/projects/spring-boot
 [GithubURL]: https://github.com/
