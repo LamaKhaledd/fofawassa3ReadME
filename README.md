@@ -148,11 +148,13 @@ Our API is fully documented and accessible through Postman, providing a detailed
 <br>
 <br>
 <br>
+<br>
 
 
 <a name="demo"></a>
 ## 📸 Demo
 Get a firsthand look at our project in action! Watch the demo to explore its features and functionality.<a href="DEMO LINK">🚀 View Demo</a>
+<br>
 <br>
 <br>
 <br>
@@ -165,11 +167,11 @@ Get a firsthand look at our project in action! Watch the demo to explore its fea
 * Wafa'a Alshaikh Ibrahim - Bardolama3amti@gmail.com
 * Haneed Alhaj - haneen@gmail.com
 * Shahd Yaseen - shahd@gmail.com
-
+<br>
   <p align="center"><a href="https://github.com/shahdyaseen/Advanced-Software/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shahdyaseen/Advanced-Software" />
 </a> </p>
-
+<br>
 <br>
 <br>
 <br>
