@@ -29,13 +29,12 @@
   <summary><h2>💳 Table of Contents<h2\></summary>
   <ol>
     <li><a href="#intro">Introduction (What's RentItOut?)</a></li>
-    <li><a href="#gs">Getting Started</a></li>
-    <li><a href="#coref">Core Features</a></li>
-    <li><a href="#roles">Roles</a></li>
     <li><a href="#bw">Built With</a></li>
+    <li><a href="#gs">Getting Started</a></li>
+    <li><a href="#coref">Main Features</a></li>
+    <li><a href="#roles">Roles</a></li>
     <li><a href="#API">API Documentation</a></li>
     <li><a href="#demo">Demo</a></li>
-    <li><a href="#contribution">Contribution</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
