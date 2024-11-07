@@ -6,14 +6,15 @@
 </div>
 <div align="center">
   <br>
-  <h1>Peer-to-Peer Rental Platform for Everyday Items</h1> &nbsp;<br>
+  <h1>Peer-to-Peer Rental Platform for Everyday Items</h1> &nbsp;
 <div align="center">
   <p align="center">
     <a href="DEMO LINK">👾 View Demo</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Mohammad-Aker/GreenThumb/issues/new">🐞 Report Bug </a>
+    <a href="REPORT LINK">🐞 Report Bug </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
+     <br>
 </div>
      
 </div>
