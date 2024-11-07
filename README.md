@@ -90,6 +90,44 @@
 
 
 
+<a name="gs"></a>
+## 🚀 Getting Started
+### ⚙️ Running the project
+#### To get started with the project:
+##### 1. Clone the repository:
+> [![Github][Github]][wewe]
+>
+> ```sh
+> git clone https://github.com/shahdyaseen/Advanced-Software.git
+> ```
+##### 2. Install Dependencies
+Make sure you have Maven installed. Run the following command to install the necessary dependencies:
+>
+> ```sh
+> mvn clean install
+> ```
+##### 3. Create The Database:
+* Make sure MySQL is installed and running on your local machine.
+* Create a new database for the project:
+>
+> ```sh
+> CREATE DATABASE advanced_software;
+> ```
+* Update the application.properties or application.yml file in the src/main/resources directory with your MySQL database credentials (username and password).
+>
+> ```sh
+> spring.datasource.url=jdbc:mysql://localhost:3306/advanced_software
+> spring.datasource.username=your_mysql_username
+> spring.datasource.password=your_mysql_password
+> ```
+##### 4. Run The Application:
+>
+> ```sh
+> mvn spring-boot:run
+> ```
+
+<br>
+<br>
 
 
 
@@ -100,7 +138,7 @@
 [GithubURL]: https://github.com/
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [PostmanURL]: https://www.postman.com/
-[wewe]: https://github.com/Mohammad-Aker/GreenThumb
+[wewe]: https://github.com/shahdyaseen/Advanced-Software.git
 [JQuery-url]: https://jquery.com 
 
 
